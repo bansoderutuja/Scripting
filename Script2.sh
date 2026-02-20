@@ -1,6 +1,6 @@
 #!/bin/bash
 #This script is to read input from the user/console
-#variable script
+#This is variable scripting example
 echo "Value of a"
 read a
 echo "Value of b"
